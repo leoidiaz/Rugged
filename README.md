@@ -1,12 +1,17 @@
 ### Rugged
 
-![ruggedLight](https://user-images.githubusercontent.com/2793158/70198763-9d7f7b00-16c4-11ea-892f-284b2f9feaa0.png){:height="50%" width="50%"}
+<img src="https://user-images.githubusercontent.com/2793158/70199891-bdfd0480-16c7-11ea-98ad-e916d5abf0c7.png" alt="ruggedLight"
+title="rugged app light" width="300" height="600" />
 
 Create a strong password generated with uppercase, numbers, and symbols. 
 
 
-![ruggedDark](https://user-images.githubusercontent.com/2793158/70198800-bd16a380-16c4-11ea-82b9-b0e9149c05c0.png){:height="50%" width="50%"}
 * Dark Mode Supported
+
+<img src="https://user-images.githubusercontent.com/2793158/70199698-2e575600-16c7-11ea-80fd-65d1136e67ed.png" alt="ruggedDark"
+title="rugged app dark" width="300" height="600" />
+
+
 * Copy password to clipboard
 
 
