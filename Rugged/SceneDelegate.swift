@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  passGen
+//  Rugged
 //
 //  Created by Leonardo Diaz on 11/22/19.
 //  Copyright © 2019 Leonardo Diaz. All rights reserved.

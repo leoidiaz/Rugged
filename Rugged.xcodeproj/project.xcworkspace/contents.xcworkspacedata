@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:passGen.xcodeproj">
+      location = "self:/Users/leonardodiaz/Documents/ios/projects/Password Alchemist/Rugged.xcodeproj">
    </FileRef>
 </Workspace>
